@@ -46,20 +46,7 @@ Open playstore_analysis.ipynb and follow the sequential EDA steps.
 
 ---
 
-📁 Project Structure
-
-playStore-Data-Analysis-and-Visualization-/
-├── data/                         # CSV dataset file
-├── playstore_analysis.ipynb      # Jupyter notebook with EDA & visuals
-├── requirements.txt              # Required Python libraries
-└── README.md                     # Project overview
-
-
----
-
 🔍 Key Insights
-
-(Replace with actual findings after running analysis)
 
 Apps with high reviews tend to have higher install counts.
 
